@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "zkwwww-geminiproch-46"
+          project: "zkw-geminiproch-123456"
           entrypoint: "server/entry.mjs"
           root: "dist"
           
